@@ -1,49 +1,32 @@
-*Name of App Here*
+*Authentigrate* by Cryptr Team
 
-**Name of your app** is a authenticate .
-
-Time spent: **X** hours spent in total
+**Authentigrate** is an app makes issuing and verifying cryptographically secure identites easy.
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] User can take a picture of a QR code, and which the app can read the data from
+- [ ] App can verify identities from QR codes
+- [ ] App can import teams (both public and public/private key pairs) from QR codes
+- [ ] App has help screen to guide new users
+- [ ] User can view exisiting teams
+- [ ] User can generate new IDs and share ID images
+- [ ] User can generate and share team codes as QRs
+- [ ] User can make and name new teams
 
 The following **optional** features are implemented:
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] A custom home screen / camera view vis-a-vi snapchat
+- [ ] User IDs can include small pictures of ID holder
 
-The following **additional** features are implemented:
+## Wireframe Mock UP
 
-- [ ] List anything else that you can get done to improve the app functionality!
-
-Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
-
-1. 
-2. 
-
-## Video Walkthrough 
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
-## Notes
-
-Describe any challenges encountered while building the app.
+<img src='http://i.imgur.com/cAIeIyE.jpg' title='Wireframe 1' width='' alt='Wireframe 1' />
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2016] [Cryptr Team, Steven Povlitz and Nina Laurel]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
