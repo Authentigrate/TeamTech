@@ -1,6 +1,6 @@
 *Authentigrate* by Cryptr Team, Steven Povlitz and Nina Laurel
 
-**Authentigrate** is an app makes issuing and verifying cryptographically secure identites easy.
+**Authentigrate** is an app that makes issuing and verifying cryptographically secure identities easy.
 
 ## User Stories
 
