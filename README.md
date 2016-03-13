@@ -23,7 +23,7 @@ The following **optional** functionality is completed:
 
 ## Wireframe Mock UP
 
-<img src='http://i.imgur.com/cAIeIyE.jpg' title='Wireframe 1' width='' alt='Wireframe 1' />
+<img src='http://i.imgur.com/cgzMfN2.jpg' title='Wireframe 2' width='' alt='Wireframe 2' />
 
 ## License
 
