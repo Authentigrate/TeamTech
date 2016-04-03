@@ -21,6 +21,11 @@ The following **optional** functionality is completed:
 - [ ] The app can be set up to require a fingerprint scan to unlock
 - [x] A “Help” screen is accessible from the home screen
 
+## Video Walkthrough
+
+<img src='http://i.imgur.com/IprGF4v.gif' title='walkthru' width='' alt='Wireframe 2' />
+
+
 ## Wireframe Mock UP
 
 <img src='http://i.imgur.com/cgzMfN2.jpg' title='Wireframe 2' width='' alt='Wireframe 2' />
